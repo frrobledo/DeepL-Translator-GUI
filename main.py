@@ -1,3 +1,4 @@
+#!/usr/bin/env .venv/bin/python
 import deepl
 import sys
 import requests
