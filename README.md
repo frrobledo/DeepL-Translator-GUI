@@ -1,6 +1,6 @@
 # DeepL Translator GUI for Linux
 
-This is a simple Python application that provides a GUI for using the DeepL translation service on Linux systems. It uses PyQt5 for the interface and DeepL's API for translation, and it is designed to run within a Python virtual environment.
+This is a simple Python application that provides a GUI for using the DeepL translation service on Linux systems (also available for Windows and Mac). It uses PyQt5 for the interface and DeepL's API for translation, and it is designed to run within a Python virtual environment.
 
 ![Screenshot](images/screenshot.png)
 
@@ -17,7 +17,7 @@ This is a simple Python application that provides a GUI for using the DeepL tran
 1. Clone the repository:
    ```bash
    git clone https://github.com/frrobledo/deepl_py.git
-   cd deepl_py
+   cd DeepL-Translator-GUI
    ```
 
 2. Create a virtual environment:
