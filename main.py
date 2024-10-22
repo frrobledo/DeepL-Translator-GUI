@@ -1,6 +1,5 @@
 import deepl
 import sys
-import json
 import requests
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout,
@@ -64,7 +63,7 @@ class DeepLTranslator(QWidget):
 
         # Target Language ComboBox
         self.target_lang_combo = QComboBox()
-        self.target_lang_combo.setCurrentText('EN')
+        self.target_lang_combo.setCurrentText('English (American)')
         options_layout.addWidget(QLabel('Target Language:'))
         options_layout.addWidget(self.target_lang_combo)
 

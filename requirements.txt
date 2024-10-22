@@ -1,0 +1,13 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+deepl==1.19.1
+evdev==1.7.1
+idna==3.10
+pynput==1.7.7
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.15
+PyQt5_sip==12.15.0
+python-xlib==0.33
+requests==2.32.3
+six==1.16.0
+urllib3==2.2.3
