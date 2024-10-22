@@ -2,6 +2,8 @@
 
 This is a simple Python application that provides a GUI for using the DeepL translation service on Linux systems. It uses PyQt5 for the interface and DeepL's API for translation.
 
+![Screenshot](images/screenshot.png)
+
 ## Features
 
 - **Translate Text:** Input text and translate it to a target language.
